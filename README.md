@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mastering Data Structures & Algorithms and building efficient MLOps pipelines.<br><br>👯 I’m looking to collaborate on Unique, problem solving projects in AI/ML or Full Stack (MERN) that push the boundaries of tech.<br><br>🤝 I’m looking for help with Advanced model deployment strategies and scalable system design patterns.<br><br>🌱 I’m currently learning End-to-end MLOps workflows and optimizing deep learning models.<br><br>💬 Ask me about <br><br>⚡️ Fun fact I’m a musician and song writer who writes my own lyrics and directs music videos when I'm not coding.
+🔭 I’m currently working on Mastering Data Structures & Algorithms and building efficient MLOps pipelines.<br><br>👯 I’m looking to collaborate on Unique, problem solving projects in AI/ML or Full Stack (MERN) that push the boundaries of tech.<br><br>🤝 I’m looking for help with Advanced model deployment strategies and scalable system design patterns.<br><br>🌱 I’m currently learning End-to-end MLOps workflows and optimizing deep learning models.<br><br>⚡️ Fun fact I’m a musician and song writer who writes my own lyrics and directs music videos when I'm not coding.
 
 
 ## 🌐 Socials:
